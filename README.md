@@ -78,8 +78,11 @@ Install the required packages:
 pip install pandas numpy matplotlib seaborn scikit-learn nltk wordcloud
 ```
 ## 🚀 How to Run
-python spam_detector.py
-Ensure that spam.csv (the dataset) is in the same directory.
+
+-python spam_detector.py
+
+-Ensure that spam.csv (the dataset) is in the same directory.
+
  ---
  ## 📸 Example Visuals
  
